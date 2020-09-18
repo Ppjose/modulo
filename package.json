@@ -1,0 +1,19 @@
+{
+  "name": "modulo",
+  "version": "1.0.0",
+  "description": "mi primer modulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ppjose/modulo.git"
+  },
+  "author": "jo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ppjose/modulo/issues"
+  },
+  "homepage": "https://github.com/Ppjose/modulo#readme"
+}
